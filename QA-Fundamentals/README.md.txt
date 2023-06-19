@@ -1,0 +1,1 @@
+1. This is the folder for QA Fundamentals June 2023 Course @ Softuni
